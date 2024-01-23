@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T09:13:43.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.21" etag="nnksR8Tq7B5dWtOwEgkh" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T09:21:26.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="U13DAa9vQwNU2w6HaElc" version="22.1.21" type="github">
   <diagram name="第 1 页" id="448E7n4bSGnICHPR-e7T">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nbFcufh1acFG5wVBwIWf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nbFcufh1acFG5wVBwIWf-1" target="nbFcufh1acFG5wVBwIWf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-1" value="河南环能实业有限公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nbFcufh1acFG5wVBwIWf-2" target="nbFcufh1acFG5wVBwIWf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-2" value="河南深思供应链有限公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nbFcufh1acFG5wVBwIWf-3" target="nbFcufh1acFG5wVBwIWf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-3" value="上海文政投资管理有限公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nbFcufh1acFG5wVBwIWf-4" target="nbFcufh1acFG5wVBwIWf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-4" value="河南行道乐教育科技有限公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-5" value="魔瞳（北京）科技有限公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-12" value="投资款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-13" value="货款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="636" y="338" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-14" value="借款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="246" y="310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nbFcufh1acFG5wVBwIWf-15" value="借款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="246" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
