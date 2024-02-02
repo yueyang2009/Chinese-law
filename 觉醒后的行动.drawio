@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T00:28:20.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qlhtrfhkwbM1U8U15URQ" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T00:33:30.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8C0Bii5NRWN_2HPzdVal" version="23.1.1" type="github">
   <diagram name="第 1 页" id="kF70AqDIAgL-1ph4Seo0">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,32 @@
         <mxCell id="YsRvrZ6tCrOa0wc27RRz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YsRvrZ6tCrOa0wc27RRz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YsRvrZ6tCrOa0wc27RRz-2" value="给孩子的生活指南" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YsRvrZ6tCrOa0wc27RRz-3" value="工具思维，工欲善其事必先利其器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YsRvrZ6tCrOa0wc27RRz-4" value="习惯养成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YsRvrZ6tCrOa0wc27RRz-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YsRvrZ6tCrOa0wc27RRz-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YsRvrZ6tCrOa0wc27RRz-7" value="身体是意识的承载，没有强壮的身体，无法承载强大的灵魂，更无从谈起目标和志向，像曾国藩，王阳明，胡林翼虽然留名青史，但皆英年早逝，5、6十岁的年纪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="410" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YsRvrZ6tCrOa0wc27RRz-8" value="强身健体&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YsRvrZ6tCrOa0wc27RRz-9" value="好的习惯养成，收益终生&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YsRvrZ6tCrOa0wc27RRz-10" value="就像怎么开垦一块荒地，种上粮食，杂草自然会被祛除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
